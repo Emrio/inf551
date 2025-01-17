@@ -1,0 +1,7 @@
+_opam
+*.agdai
+*.cmi
+*.cmx
+*.o
+
+td2/sat
